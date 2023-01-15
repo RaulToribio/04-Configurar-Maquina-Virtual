@@ -1,4 +1,5 @@
 # 04-Configurar-Maquina-Virtual
+<<<<<<< HEAD
 
 # Introducción
 
@@ -49,3 +50,5 @@ Así se verá la máquina virtual configurada.
 
 > [Codigo IoT](https://github.com/codigo-iot)
 >
+=======
+>>>>>>> 3545d9577058044ec2b77549d2905e3026588f57
