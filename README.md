@@ -34,10 +34,6 @@ En la sección “Red” seleccionar el dispositivo de red en el apartado “Nom
 
 Así se verá la máquina virtual configurada.
 
-# Evidencias
-
-![https://raw.githubusercontent.com/RaulToribio/04-Configurar-Maquina-Virtual/main/Im%C3%A1genes/Configurar%20M%C3%A1quina%20Virtual%20(5).png](https://raw.githubusercontent.com/RaulToribio/04-Configurar-Maquina-Virtual/main/Im%C3%A1genes/Configurar%20M%C3%A1quina%20Virtual%20(5).png)
-
 # Créditos
 
 > [José Raúl Toribio Gabriel](https://github.com/RaulToribio)
